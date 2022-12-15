@@ -1,9 +1,17 @@
-<!DOCTYPE html>
-<html>
-<body>
+>>> type(4.5)
+<class 'float'>
 
-<h2>What Can JavaScript Do?</h2>
+>>> type(5.8)
+<class 'float'>
 
-<p id="demo">JavaScript can change the style of an HTML element.</p>
+>>> type(2342423424.3)
+<class 'float'>
 
-<button type="button"
+>>> type(4.0)
+<class 'float'>
+
+>>> type(0.0)
+<class 'float'>
+
+>>> type(-23.5)
+<class 'float'>

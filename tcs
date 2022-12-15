@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html>
-<body>
-
-<h2>What Can JavaScript Do?</h2>
+age = 56
+name = "Nora"
+color = "Blue"
+grades = [67, 100, 87, 56]

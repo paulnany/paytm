@@ -1,7 +1,11 @@
-<!DOCTYPE html>
-<html>
-<body>
+>>> type(1)
+<class 'int'>
 
-<h2>What Can JavaScript Do?</h2>
+>>> type(15)
+<class 'int'>
 
-<p>JavaScript can change HTML attribute values.</p>
+>>> type(0)
+<class 'int'>
+
+>>> type(-46)
+<class 'int'>
