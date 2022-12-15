@@ -14,4 +14,4 @@
 <class 'float'>
 
 >>> type(-23.5)
-<class 'float'>
+<class 'float'>12345
